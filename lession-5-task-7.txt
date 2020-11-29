@@ -1,0 +1,5 @@
+google corp 1000 1100
+yandex ltd 2000 200
+mail llc 3000 300
+apple llp 4000 400
+microsoft corp 5000 500
