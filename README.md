@@ -1,2 +1,2 @@
-gb-lessions
+# gb-lessions
 Курс "Основы языка Python"
